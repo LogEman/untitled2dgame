@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/favicon.png-0dc880fb297345abe0d314e66b49b1f2.stex"
+path="res://.import/favicon.png-090949abde8974d2ccf751cced4008e4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Releases/Web Releases/Walk Test v1.1/favicon.png"
-dest_files=[ "res://.import/favicon.png-0dc880fb297345abe0d314e66b49b1f2.stex" ]
+source_file="res://docs/favicon.png"
+dest_files=[ "res://.import/favicon.png-090949abde8974d2ccf751cced4008e4.stex" ]
 
 [params]
 
