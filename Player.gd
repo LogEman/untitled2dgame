@@ -1,5 +1,6 @@
 extends KinematicBody2D
 
+
 export (int) var speed = 200 # Speed of the player
 export (int) var gravity = 5000 # Power of gravity
 export (float) var maxJump = 350
